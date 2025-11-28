@@ -14,3 +14,9 @@ menu:
 然后重新部署rime
 
 或直接重启fcitx5
+
+没用就修改这个
+
+/home/kali/.local/share/fcitx5/rime/build/default.yaml 【次要】
+
+~/.local/share/fcitx5/rime/default.yaml【kali路径不对】
