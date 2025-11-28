@@ -1,4 +1,5 @@
 sudo apt update
+
 sudo apt install fcitx5 fcitx5-rime
 
 修改候选词
