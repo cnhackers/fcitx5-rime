@@ -4,7 +4,7 @@ sudo apt install fcitx5 fcitx5-rime
 
 修改候选词
 
-nano /usr/share/rime-data/default.yaml
+sudo nano /usr/share/rime-data/default.yaml
 
 修改 page_size 5 改成9
 
